@@ -1,0 +1,17 @@
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\HealingPotion.cs
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\Item.cs
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\Location.cs
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\Monster.cs
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\Quest.cs
+c:\users\sidne\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\Weapon.cs
